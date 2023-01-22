@@ -3,8 +3,9 @@ OwO what's this? It's a lazy cat girl with no life.
 ~pomóż mi~
 
 ## Projects
-- [Cosmic Cat](https://github.com/ciulinuwu/cosmic-cat) (Resumed) 
-- [hypixel-app](https://giithub.com/ciulinuwu/hypixel-app) (In-dev)
+- [Cosmic Cat](https://github.com/ciulinuwu/cosmic-cat)
+- [hypixel-app](https://github.com/ciulinuwu/hypixel-app)
 
 ## Social Media
 - [Twitter](https://twitter.com/ciulinuwu)
+- [Discord](https:///discord.gg/NSUgUJdMQa)
